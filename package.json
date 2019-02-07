@@ -1,0 +1,23 @@
+{
+  "name": "echartsApp",
+  "version": "1.0.0",
+  "description": "The Chart with eCharts",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffersonswartz/eCharts.git"
+  },
+  "author": "Jefferson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffersonswartz/eCharts/issues"
+  },
+  "homepage": "https://github.com/jeffersonswartz/eCharts#readme",
+  "dependencies": {
+    "echarts": "^4.2.0-rc.2",
+    "jquery": "^3.3.1"
+  }
+}
